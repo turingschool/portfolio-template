@@ -2,20 +2,38 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Present ([https://github.com/turingschool/present](https://github.com/turingschool/present))"
+    image: "![](assets/img/present_logo.png)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Ruby on Rails application used to manage and synchronize student attendance data.
+      - Built CRUD functionality for admin and standard users, including error handling and testing.
+      - Utilized Sidekiq and Redis to incorporate asynchronous background jobs, and Rails Logger to create audit logs of changes.
+      - Incorporated Turbo frames into the frontend to optimize user experience.
+      - Upgraded app from legacy Populi API to Populi API V2 including converting all API calls, unit tests, and integration tests.
+      - Implemented WebMock and VCR to optimize the testing suite.
+      - Redesigned and updated HTML and CSS styling application wide.
+
+  - title: "Alan" 
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Ruby on Rails data synchronization application that uses background jobs to collect and record student data.
+      - Alan helps connect different services used by Turing, sync data, and automate operational tasks.
+      - Sync data from Populi to Airtable. (example, pulling enrollment data)
+      - Picking up queued tasks from Airtable. (example, enrolling a new student)
+      - Upgrade app from using legacy Populi API to Populi API V2 including optimizing all API calls, and updating service testing.
+      - Utilize GoodJob to create asynchronous background jobs for data collection.
+      - Write tests for background jobs using RSpec.
+
+  - title: "Turing Curriculum Site ([https://curriculum.turing.edu/](https://curriculum.turing.edu/))" 
+    image: "![](assets/img/turing_curriculum_site.png)"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Combine the backend and frontend software engineering curriculum into a new combined curriculum site.
+      - Review all Ruby and Javascript code throughout the curriculum for accuracy and clarity.
+      - Create PRs and participate in PR conversations with other software engineers.
+
+  - title: "BookHaven ([https://github.com/BookHaven/BookHaven-BE](https://github.com/BookHaven/BookHaven-BE))"
+    image: "![](assets/img/bookhaven_logo.png)"
+    description: 
+      - Python and Django REST API for SOA application that manages inventories of Little Free Libraries.
+      - Utilized Miro board, an agile workflow, and a JSON contract amongst a full-stack team to build an SOA application.
+      - Designed and implemented HTML and CSS styling for frontend application.
+      - Deployed frontend application using Vercel, and backend application using Heroku.
