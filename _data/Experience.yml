@@ -2,21 +2,30 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Turing School of Software & Design
+    role: Software Developer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Participate in weekly standups with the leadership team.
+      - Review and merge PRs for various applications.
+      - Build APIs for internal applications and curriculum.
+      - Function as a Technical Onboarding Instructor.
+      - Assist students in preparing the foundations they need to be successful in Turing's software engineering program by introducing them to technical concepts prior to their full-time enrollment.
+      - Teach basic programming principles of Ruby, Git, GitHub, VS Code.
+    date: July 2024 - Current
+  - title: Turing School of Software & Design
+    role: Jr. Software Engineer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
+      - Participate in daily standups with the development team, and weekly standups with the leadership team.
+      - Utilize agile development workflows across all projects.
+      - Generate and resolve ticket issues for a variety of internal applications.
+      - Implement feedback from senior developers through asynchronous PR conversations.
+      - Projects include Present, Alan, and Turing Curriculum Site.
+    date: Apr. 2024 - Jul. 2024
+  - title: Turing School of Software & Design
     role: Software Engineer Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Work in agile teams and participate in agile ceremonies such as backlogs and retros.
+      - Participate in asynchronous PR conversations and code review sessions with senior mentors.
+      - Write coding solutions for bugs and tickets.
+      - Projects include Present.
+    date: Aug. 2023 - April 2024
