@@ -1,3 +1,27 @@
+title: My Portfolio Site
+profile_img: /assets/img/logo.png
+icon_img: /assets/img/logo.png
+
+name: "Your Name"
+job: "Your Job Title"
+
+phone_number: 111-222-3333
+address: City, Country
+email: email@example.com
+linkedin_username: linkedin
+github_username: github
+instagram_username: instagram
+twitter_username: twitter
+facebook_username: facebook
+
+theme: jekyll-professional-resume
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -17,20 +41,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Alec Kapicak Portfolio
-email: email@123.com
-description: >- # this means to ignore newlines until "baseurl:"
- This is the software engineering portfolio of Alec Kapicak.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  AlecKap
-name: Alec Kapicak
-
-# Build settings
-theme: jekyll-professional-resume
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
