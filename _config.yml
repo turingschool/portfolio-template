@@ -1,15 +1,15 @@
 title: My Portfolio Site
-profile_img: /assets/img/logo.png
+profile_img: /assets/img/profile_pic.jpg
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: Jacob Inman
+job: Software Developer
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
+phone_number: 1(858)472-9846
+address: San Diego, CA
+email: jrinman6295@gmail.com
+linkedin_username: https://www.linkedin.com/in/jacobinman/
+github_username: https://github.com/jinman14
 instagram_username: instagram
 twitter_username: twitter
 facebook_username: facebook
