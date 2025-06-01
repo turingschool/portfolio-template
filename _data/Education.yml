@@ -4,18 +4,12 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Development and Design
     description:
-      - 
-      - 
-    date: Dec. 2024 - Jun. 2025
-  - title: Stanfort University, MA in Computer Science
-    description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - an intense, comprehensive full stack software engineer course
+      - languages studied, Ruby, Ruby on Rails, JavaScript, HTML, CSS, React
+    date: Dec. 2024 - Apr. 2025
+  - title: University of California, Santa Barbara, BS in Biological Sciences
+    grade: "**GPA**: `3.1`"
+    date: Sept. 2014 - May. 2017
   #   - title: Farvard University, PhD in Computer Science
   #   description:
   #     - Design of a method to build a probabilistic generative model
