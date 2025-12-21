@@ -1,18 +1,18 @@
-title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+title: Michael O'Brien Portfolio
+profile_img: /assets/img/headshot.jpg
+icon_img: /assets/img/headshot.jpg
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Michael O'Brien"
+job: "Fullstack Developer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 615-293-9752
+address: Grand Island, USA
+email: obrien.michael.t@gmail.com
+linkedin_username: michaelobrien67
+github_username: MiTOBrien
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 

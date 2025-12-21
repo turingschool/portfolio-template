@@ -1,22 +1,17 @@
 subject: Experiences
-listing-order: 2
+listing-order: 5
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Acorn Technology Services
+    role: Helpdesk Support Engineer - Tier III
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Thrived in a fast paced environment support over 40 companies worldwide
+      - Mentored junior technicians and trained offshore tier I support team leading to expanded 24 hour support for customers
+    date: Sept. 2020 - Nov. 2023
+  - title: TN Department of Transportation
+    role: Network Operations - Advanced
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Built a custom GUI tool in Powershell allowing the tier I support to work in active direcotry without having to log into the server.
+      - Built a custom GUI tool in Powershell allowing the telecommunications team to work in active direcotry without having to log into the server.
+      - Deployed applications with the in-house development team after-hours on IIS servers.
+    date: Jun. 2015 - JUl. 2020

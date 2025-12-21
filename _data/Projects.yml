@@ -2,20 +2,52 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Angi-Lynn Storm Author Site"
+    gitbub: "Github: [Front End](https://github.com/MiTOBrien/angi-lynn_storm-author)"
+    description:
+      - Mobile-Friendly author page for Angi-Lynn Storm, an independent book author
+      - Features a carousel on the homepage showing current releases
+      - Navbar is collapsible showing the standard hamburger menu on mobile devices
+      - A beta reader page for users to sign up to be a beta reader for upcoming releases
+      - An upcoming releases pages that includes thumbnail book covers of upcoming releases. Clicking on the thumbnail on mobile, on hovering on a computer will pop up a modal with a blurb about the book
+      - Footer with links to all social media sites
+      - "Technology used: Vue.js, Vue Router"
+    image: "![](assets/img/AngiLynnStorm.png)"
+  - title: "Cipher Genius ([Deployed Site](https://cipher-genius.onrender.com/))"
+    github: "Github: [Front End](https://github.com/MiTOBrien/cipher_genius_fe) [Back End](https://github.com/MiTOBrien/cipher_genius_be)"
+    description:
+      - Cipher Genius is a web based cipher based puzzle game. You can create an account and it will track the number of ciphers you have solved in each category and the time it took to solve the cipher. If you don't want to create an account you have the option to continue as a guest as solve cipher puzzles. This application was built with a Rails API backend and a Vue.js frontend. This application was a solo development project completed after finishing Turing School of Sofware & Design.
+      - Implememted Devise with JWT for user authenticaiton and authorization on the backend with JWT which was a new technology I had never used.
+      - The frontend was built with Vue.js as a strech technology learning goal.
+      - Created reusable fetch component for fetching quotes to be used for the different typese of cipher puzzles
+      - Created reusable timer component for tracking the time spent on a cipher puzzle across the different types of cipher puzzles
+      - "Technology Used: Ruby, Rails, PostgresSQL, Vue.js, CSS, RSpec"
+    image: "![](/assets/img/Cipher-Genius.png)"
+  - title: "Tracker-CRM ([Deployed Site](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/))"
+    github: "Github: [Front End](https://github.com/turingschool/tracker-crm-fe) [Back End](https://github.com/turingschool/tracker-crm)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - The Tracker-CRM App is a full-featured job tracking board with user login functionality that allows the users to track companies, contacts, and job applications built using a Service-Oriented Architecture (SOA) with a Rails API backend and React frontend using TypeScript. This was our capstone project for graduation with a 12 member team.
+      - Implememted all back end functionality for deleting a job application will full RSpec testing
+      - Co-authored full delete functionality on the front end, creating a reusable component that would delete companies, contacts, and job applications
+      - Implemented delete functionality for job applications on the front end in TypeScript and fully tested with Cypress
+      - Implemented conditional button logic on the home page to prompt users to create a company, contact, or job application if they had not done so in the past 7 days
+      - "Technology Used: Ruby, Rails, PostgresSql, React, TypeScript, TailwindCSS, RSpec, Cypress, CircleCI"
+    image: "![](assets/img/tracker.png)"
+  - title: "Mood Boost ([Deployed Site](https://mood-boost-fe.onrender.com/))"
+    github: "Github: [Front End](https://github.com/Mood-Boost/mood_boost_fe)  [Back End](https://github.com/Mood-Boost/mood_boost_be)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - The Mood Boost App is designed to enhance users' emotional well-being through engaging and interactive features and was built using a Service-Oriented Architecture (SOA) with a Rails API backend and React frontend.  This project was a group project with 5 team members contributing.
+      - Assisted in design and creation of backend database and associated Rails model files
+      - Created header/navbar functionality and overall styling of the project
+      - Implemented front end friendly error handling for failed fetch requests
+      - Wrote front end cypress testing
+      - "Technology Used: Ruby, Rails, PostgresSql, React, React-Router, HTML, CSS, JavaScript, RSpec, Cypress"
+    image: "![](/assets/img/mood_boost_fe.png)"
+  - title: "Dice Battle ([Deployed Site](https://dice-battle.netlify.app/))"
+    github: "Github: ([Front End](https://github.com/MiTOBrien/Dice-Battle))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - An online 2 player game where the objective is to be the first person to reach 100 points rolling a die. This was a solo project.
+      - Developed an attractive user front end with an easy to understand user interface
+      - Wrote JavaScript to display gameplay instructions in a modal, a button for rolling the die and holding to pass to the other play and gameplay logic for keeping track of user turns, score, and determining the winner
+      - "Technology Used: HTML, CSS, JavaScript"
+    image: "![](assets/img/dicebattle.png)"
